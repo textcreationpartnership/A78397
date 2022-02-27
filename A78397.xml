@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Cavaliers Bible, or a squadron of XXXVI. Several religions by them held and maintaied (sic). And the particulars of every of their tenents colledcted (sic), as also the particulars of the severall regiments and commanders expressed.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78397</idno>
+            <idno type="STC">Wing C1566</idno>
+            <idno type="STC">Thomason E4_24</idno>
+            <idno type="STC">ESTC R6917</idno>
+            <idno type="EEBO-CITATION">99873052</idno>
+            <idno type="PROQUEST">99873052</idno>
+            <idno type="VID">154701</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78397)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154701)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 1:E4[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Cavaliers Bible, or a squadron of XXXVI. Several religions by them held and maintaied (sic). And the particulars of every of their tenents colledcted (sic), as also the particulars of the severall regiments and commanders expressed.</title>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition corrected and enlarged.</edition>
+               </editionStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Jane Coe: according to order,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Illustrated t.p.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154701:1" rendition="simple:additions"/>
+            <p>
+               <hi>The Cavaliers Bible,</hi> OR A SQUADRON OF XXXVI.</p>
+            <p>Severall RELIGIONS by them held and maintaied.</p>
+            <p>And the particulars or every of their Tenents col<g ref="char:EOLhyphen"/>lected, as alſo the particulars of the ſeverall Regi<g ref="char:EOLhyphen"/>ments and Commanders Expreſſed.</p>
+            <p>The ſecond Edition corrected and Enlarged.</p>
+            <figure>
+               <figDesc>depiction of some of the factions and sects associated with the Cavaliers in Parliament</figDesc>
+            </figure>
+            <p>
+               <add>Aug. 7</add> Printed by JANE COE: according to Order, 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:154701:2"/>
+            <head>XXXVI. Religions, <hi>Sects, Societies, and Factions, of the</hi> Ca<g ref="char:EOLhyphen"/>valiers now in armes againſt the Parliament.</head>
+            <p n="1">I. <hi>CArdinals)</hi> Aſſume to themſelves a Maſculine power over the moſt royall conſciences even of Kings and Princes, and overtopping the Crowne, daſh the Septar againſt that truth which dares to ſay ſo. Thier <hi>Will</hi> is as rotten as old, fitter for a munument in a ruined Tower, than a princes pallace, yet be<g ref="char:EOLhyphen"/>ing of the Arch-Biſhop of <hi>Yorkes</hi> Regiment to remain in the Court they will begg to be <hi>Vſhers</hi> rather then to leave it: And thoſe <hi>Cardinal</hi> alias <hi>Calde Dinates,</hi> were ever Enemies to Reformation. <hi>Ezra</hi> 4.9.</p>
+            <p n="2">II. The <hi>French</hi> Faction) Are a feminine ſociety of ſuperſtious wan<g ref="char:EOLhyphen"/>tons, who to advance the honour of their own <hi>Diana,</hi> hold it pure devotion to keep her active, though by blood they would awake her that cannot live, when they <hi>Dig-by</hi> the Altars of their ofen ſacrificed <hi>Sucklings,</hi> they may behold a fit object to ſtay their hands from ſuch <hi>Goring</hi> of their own fleſh, leaſt <hi>pearſing</hi> to the <hi>marrow</hi> it prove martall to the grand ladies their commanders, &amp; this faction of <hi>Zaraphath,</hi> that is, <hi>France</hi> did alwaies ſtrive to keep the people of God in bondage. <hi>Obaliah ver.</hi> 20.</p>
+            <p n="3">III. The <hi>Spaniſh</hi> Faction) Are a <hi>Newtroll</hi> Sect who regard nei<g ref="char:EOLhyphen"/>ther God nor man, Religion nor Law, King, nor people, The gold and the Jewels of a Crown are to them no more valued than a ſtone Crucifixe, or the badg of a Spaniſh Pentioner, <hi>Cottington</hi> of whoſe Regiment theſe are, hath by many a fained <hi>Arand-dealt</hi> too falſe with England, to deceive us of our beſt treaſure, whilſt we embraſing <hi>Briſtoll</hi> ſtones, hazard the loſſe of our beſt diadems. Of this Sect are the Faction of <hi>S<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ad,</hi> that is, <hi>Spain,</hi> who ever reioy<g ref="char:EOLhyphen"/>ſed to tyrannize over the Church of God. <hi>Obad. ver.</hi> 20.</p>
+            <p n="4">IIII. <hi>Adamites?</hi> have all things common, and hold it a para<g ref="char:EOLhyphen"/>dice
+<pb facs="tcp:154701:2"/>to live ſo becauſe their diſcipline allowes both Sects to <hi>Court</hi> naked, in which they bulſh no more than <hi>Adam</hi> at his firſt Creati<g ref="char:EOLhyphen"/>on, <hi>Gen</hi> 2.5. This diſcipline a natine <hi>Germine</hi> firſt learned in Holland and ſince being in England, taught it to the Cavalrie of his Regiment.</p>
+            <p n="5">V. <hi>Biſhops</hi>) Are a doubtful brotherhood of <hi>Prelates,</hi> who <hi>Perſe</hi> the ſides of our Saviours <hi>Members,</hi> and would from <hi>Peter-borow</hi> a ſucceſſion to ſit in <hi>Pilates</hi> Judgement <hi>Hall,</hi> to paſſe the ſentence againſt the Son of God, for whoſe ſake <hi>Peter</hi> ſuffered death, and theſe are of the Biſhop of <hi>London-Derries</hi> Regiment. Theſe <hi>Biſhlomites,</hi> alias <hi>Biſhops,</hi> do ſtill labour to keep us under the <hi>Bond</hi>-age of their cruel ſlaverie.</p>
+            <p n="6">VI. <hi>Ieſuites</hi>) Like their Father <hi>Eſau,</hi> rejoyce to ſpill their bre<g ref="char:EOLhyphen"/>threns blood, for their greaſie <hi>Cooke</hi> to make ſauſes with, to reliſh their unſatiate pallets, and where they reign in their <hi>Caps</hi> and <hi>Ro<g ref="char:EOLhyphen"/>chets ſtarve</hi> the peoples ſoules, by keeping from them that heaven<g ref="char:EOLhyphen"/>ly food, which by divine influence is onely able to make them live. Sir <hi>Iohn Winter</hi> their Colonell would make us beleeve that they are Ieſuites of <hi>Ieſhui,</hi> corrupting the Scriptures to make it ſpeak of ſuch a family, <hi>Num.</hi> 26.44. <hi>In the laſt Tranſlation onely, but</hi> are rather of <hi>Ieuſh,</hi> the wicked off-ſpring of <hi>Eſau.</hi>
+            </p>
+            <p n="7">VII. <hi>Malignants</hi>) Are a malicious brood of an old <hi>Majors Varlets,</hi> who take more care to <hi>Cripſe</hi> their own perewigs, then to make the Church Glorious. It may ſeem ſtrange that the Malig<g ref="char:EOLhyphen"/>nitie of the Planets ſhould produce ſuch effects by <hi>Rupert</hi> their Ge<g ref="char:EOLhyphen"/>nerall, and yet we may read of ſuch flowers even among the <hi>Vio<g ref="char:EOLhyphen"/>lets,</hi> which have buddeded in this famous City. Theſe <hi>Melzerants, Malignants,</hi> out of envie to Gods people, can willingly allow them nothing but bread and water to ſuſtaine life, <hi>Dan.</hi> 1.16.</p>
+            <p n="8">VIII. <hi>Prieſts</hi>) Are a ſort of ſmall <hi>Comets,</hi> whoſe luſtre is derived from other <hi>Stars,</hi> drinking ſack with <hi>Baccus</hi> under the influence of the moon and <hi>Venus,</hi> without which their dull ingenuity cannot appear viſible in any Horiſon. Theſe are of <hi>Overtons</hi> Regiment, the drunken Perſon, and though they weare the Golden feathers of of <hi>Finches,</hi> and catter like <hi>Magpies,</hi> yet are no more to be valued then the little <hi>Wren.</hi>
+            </p>
+            <p n="9">IX. <hi>Arminians</hi>) Srive to rob the Proteſtant Church of all her glory, <hi>Featly</hi> to deck their own garden with popiſh flowers, which (notwithſtanding) all that <hi>Dupper</hi> their Colonell, and they can do, bears nothing but <hi>Ferne</hi> and <hi>Groſſe</hi> ſtubble, which they will fly to
+<pb facs="tcp:154701:3"/>
+               <hi>Armenia</hi> with, rather then let it be rooted put and taken away. <hi>Eſa.</hi> 31.15.</p>
+            <p n="10">X. <hi>Italians</hi>) Are the profeſt Papiſts, who under <hi>Inchequeen,</hi> ſeek to crowde out the Proteſtant Religion, that the <hi>Italian</hi> Sumpter, their Mother may <hi>Vſher</hi> in: and ſo <hi>Coſen</hi> us of our Religion, as <hi>Pocklington</hi> would have done of our Sabbath: 2 Chron. 24.7.</p>
+            <p n="11">XI. <hi>Shelomethites</hi>) hold ſwearing but a complement; and blaſ<g ref="char:EOLhyphen"/>phemie a badge of Honour, and ſo <hi>Haſting</hi> their own ruine; <hi>Hurry</hi> their Liftenant Generall <hi>Wilmot</hi> to deſtruction, which is alwaies nigh at hand to take hold of the blaſphemous ſons of <hi>Shelomith, Levit.</hi> 24.11.</p>
+            <p n="12">XII. <hi>Chiliastes</hi>) Imagine Chriſts Kingdom here on earth to eſtate them in all kindes of delicate pleaſures; which though not now, yet in time to come, <hi>Greenevill</hi> and his Regiment hope to enjoy a thouſand yeers. But this Icy path is a deluge onely frozen by the <hi>Hary mother</hi> of a <hi>Winter,</hi> which in paſſing over will melt and ſwallow up the paſſengers into her bowels, <hi>Euſeb. l.</hi> 3. <hi>c.</hi> 39.</p>
+            <p n="13">XIII. <hi>Clements</hi>) Are perſwaded that after death they may re<g ref="char:EOLhyphen"/>pent, in the world to come, and it is ſoon enough to ſeek Gods mercy, which makes the bloody reſolutions of <hi>Onele</hi> and his mur<g ref="char:EOLhyphen"/>dering Regiment, not to paſſe <hi>By-worne</hi> conceived: and venture on as deſperate attemps, as <hi>Luntsford</hi> himſelfe, or the bloody Lord <hi>Breton,</hi> Clem. Strom. l. 2.</p>
+            <p n="14">XIV. <hi>Simon Maguſes</hi>) Teach their Diſciples, as <hi>Maurice</hi> doth his Souldiers, not onely to adore their own picture, and wear it in their boſomes, but ſacrifice their ſtrength for the honour of their <hi>Hele<g ref="char:EOLhyphen"/>naes,</hi> who like <hi>Iermin</hi> Frowes, follow the camp, as our Gallants do their Confeſſors, <hi>Euſeb. l.</hi> 2. <hi>c.</hi> 14.</p>
+            <p n="15">XV. <hi>Achaians</hi>) Affirme, that wen the bodie dies the ſoul peri<g ref="char:EOLhyphen"/>ſheth, and both ſhall be renued again at the day of Judgement: which doctrine is ſome thing like that which poſſeſſeth the broken Citizens, under the Marqueſſe which will both meet in one center of a vaſt nothing: for that condition in which the ſoul is ſtated (which being immortall, cannot die) ſhall be increaſed, but never changed. <hi>Origen. com func. in chron. l.</hi> 6.</p>
+            <p n="16">XVI. <hi>Minanders</hi>) Like <hi>Hary Iermin</hi> their Lord Lievetenant, Beleeve that the World was created by <hi>Angels,</hi> and that their Pa<g ref="char:EOLhyphen"/>tron, and divine <hi>Minander</hi> is able to bleſſe both their painting box<g ref="char:EOLhyphen"/>es at home, and their Armes in the camp, to make the one to pre<g ref="char:EOLhyphen"/>ſerve
+<pb facs="tcp:154701:3"/>their youth; and the other their life and by a confection of their prurging ruberb: commpounded with Spaniſh Flies and Court Jun<g ref="char:EOLhyphen"/>ctos; they ſhall nevr be in fear of death, <hi>Euſeb. l.</hi> 3. <hi>c.</hi> 26.</p>
+            <p n="17">XVII. <hi>Ebonites</hi>) Like <hi>Glenhams</hi> Northerne ignoramuſ<g ref="char:EOLhyphen"/>ſes: Denie the divinitie of Chriſt, and ſay, that he was only begotten betwene <hi>Ioſeph</hi> and <hi>Mary,</hi> and therefore think it beſt to fill their <hi>Gorges</hi> with the worlds rarities, and deſperately ſubmit their reſolu<g ref="char:EOLhyphen"/>tions to the ſeeming <hi>excellencie</hi> of that <hi>froth,</hi> which may encreaſe but never can remove their miſery.</p>
+            <p n="18">XVIII. <hi>Corinthuſſes</hi>) Like <hi>Baggot</hi> and his Liechfield Gariſon, be<g ref="char:EOLhyphen"/>leeve that the Subjects of Chriſts Kingdome ſhould eat and drinke and marry, and keep holy dayes, and offer Sacrifices and live under the Prelats oath, &amp;c. Theſe road ſo faſt on <hi>Roan</hi> their Popiſh Nag, that by reaſon of a ſuddain ſtop, they ſwore themſelves into a proteſta<g ref="char:EOLhyphen"/>tion, and deſtroyed themſelves with their own Canons, and would yet deſtroy their own Church, to erect new Altars and Conclaves for their own reſting to play the ſecret Gluttons in <hi>Euſeb. l.</hi> 3. <hi>c.</hi> 18.</p>
+            <p n="19">XIX. <hi>Nicholaitans</hi>) Live promiſcuouſly, like beaſts, no man having his own proper wife, but uſing any women at their pleaſure, theſe are not onely plunderers of mens eſtates, but <hi>Robbers</hi> of their very skins and bones, as the Rapes by Colonel <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>unsfords quarters committed, can teſtifie.</p>
+            <p n="20">XX. <hi>Marcions</hi>) Beleeve that there are two gods, one the Author of all good, the other of all evil things, which Sect <hi>Palicarpus</hi> in his time called, the firſt born of the Devill, and in theſe daies ſome of Sir <hi>Iohn Digbyes</hi> Regiment have drunk healths to the Devill, and (as I am informed by M. <hi>Allum</hi> a Divine, which was an ear witneſſe: others have caſt lots, when they have found their ſores mortall, for the diſ<g ref="char:EOLhyphen"/>poſing of places in Hell and have proceeded therein to Election, <hi>Sympſ<g ref="char:EOLhyphen"/>on c. p.</hi> 417.</p>
+            <p n="21">XXI. <hi>Encratica</hi>) Have a great reſpect to obſerve the traditions of men, but blaſpheme Scriptures, as their predeceſſor did <hi>Pauls</hi> Ep. Theſe will adore the Book of Common praier, and act their part of a play or prophane Theatre with great devotirn, but as they did at Redding, and other places) threw the Bibles into the fire and burne them to aſhes. One of them when a report was made of a defeat given by the Enemie to a partee of our forces in the North, one ſaid in my own hearing, <hi>Moſly</hi> by name (as I am juſtifie upon oath) <hi>Where is your Ieſus to help you now?</hi> as if in beleeving the Scriptures, we had truſted in that Word which cannot ſave us. <hi>Euſeb. l.</hi> 4. <hi>c.</hi> 18.</p>
+            <p n="22">
+               <pb facs="tcp:154701:4"/> XXII. <hi>Valentinians</hi>) ſometimes called <hi>Gnoſtici,</hi> at tribute every thing to the Fates: as if there were ſo many maſculine and feminine gods, as <hi>Davenant</hi> their Commander and the Poets have fained. A branch of which hereſie ſpreads in the adoration of <hi>Patrick,</hi> S. <hi>Taffy, Valentine</hi> &amp;c. By a <hi>Croſſe,</hi> a Leek, a Favour, &amp;c. <hi>Auguſt index hereſies.</hi>
+            </p>
+            <p n="23">XXIII. <hi>Theodotians</hi>) Deny Chriſt to be God: of whom a fect of <hi>Welch</hi> Cavalires under Colonell <hi>Gerhard</hi> have learned to call upon the Virgin <hi>Mary</hi> to command her Son to help them: and attribute more vertue to her milke then to his blood, which they daily profane by bloody oathes and execrations: <hi>Sympſ. ch. p.</hi> 420.</p>
+            <p n="24">XXIV. <hi>Samſeis</hi>) Are a ſort of Neuterals, under Major Generall <hi>Tillier,</hi> that are <hi>Hurri</hi>-ed up and down with every blaſt of winde, that will uſe the bed for daily devotions, the Parliament for Privi<g ref="char:EOLhyphen"/>ledge; or the Court for Prerogative; <hi>England</hi> for riches, or <hi>Holland</hi> for ſecuritie, and ſwear and do any thing; coſt it never ſo <hi>Dere;</hi> to ſtand and remain in favour. <hi>Coment. func. in Chron.</hi>
+            </p>
+            <p n="25">XXV. <hi>Samoſetence</hi>) under the Lord <hi>Hopton,</hi> Believe that it was onely Chriſts valour and wiſdom; which obtained him ſo great a re<g ref="char:EOLhyphen"/>port in the World: And therefore hold it their chiefeſt wiſdome to ſtrive each to precede each others in ſome valour, plots or projects: to beget an applauſe of thoſe the fight for. who by their Conjuring and Sophiſtrie, have perſwaded ſome to (incredible) opinions of their own glory: <hi>Sympſ. c. p.</hi> 244.</p>
+            <p n="26">XXVI. <hi>Manicheans</hi>) Do utterly reject the Old Teſtament, aſcribing not ſin to the free will of man, and his voluntarie defection from the eſtate of his firſt creation: but to neceſſitie, becauſe mans body was made of the ſubſtance of the Prince of darkenes, which rocks the young Ca<g ref="char:EOLhyphen"/>valiers of Colonell <hi>Gorings</hi> new regiment, into a pleaſing ſlumber of ſecurity in vice: <hi>Sympſ. c. p.</hi> 244.</p>
+            <p n="27">XXVII. <hi>Apollinaries</hi>) Say that Chriſt in the diſpenſation of his In<g ref="char:EOLhyphen"/>carnation, aſſumed the body onely and not the ſoul of a man becauſe his divinity ſupplied the place of his ſoul: And one ſtream of ſuch a fountain in another caſe runs over all the Cavallies, under Generall <hi>Forth,</hi> who would traduce us to beleeve that the bodie of the two Houſes of Parliament have no other vitall whereby to live; then the Kings preſence; denying that power by which his Majeſte hath put an influence to everie motion acted by that grand bodie; who enjoy both the life of the Law; Prerogatice and Priviledge: beſides his Majeſties owne Aact to them above all former Parliaments: <hi>Ruffem. l.</hi> 2.20.</p>
+            <p n="28">XXVIII. <hi>Donatists</hi>) under <hi>Montroſſe,</hi> Believe that neither the
+<pb facs="tcp:154701:4"/>Word of God, nor any under the cope of Heaven; can make ſo perfect a Church, as their own Diſcipline; as if it was impoſſible for Rome to erre? Whoſe Miniſters are as vitious as profane heathen. And no calling in the World live in greate impietie, as M. <hi>Carpenter</hi> one of their own Converts hath confeſſed ſince his Recantation, <hi>Symp. c. p.</hi> 430</p>
+            <p n="29">XXIX. <hi>Seleucians</hi>) Are of opinion that the Maſſe whereof God made the Elements was Coeternall with him: and that Chriſt in his Aſcenſion unclothed himſelf of the fleſh of man, and left it in the Globe of the Sun. Sir <hi>Kelemne Digd-by</hi> this Gulfe, and drained in ſome of this puddle to water his intellect; to tranſmould <hi>Spencer</hi> beyond his <hi>ſtanzees.</hi> And I would have all ſuch Students to wait for pay, till they attain the Philoſophers Stone; for what is any man the better to ſtudy that which is only the ſhadow of another fancies: <hi>Symp. p.</hi> 431.</p>
+            <p n="30">XXX. <hi>Pelagians</hi>) Do affirm that men naturally are able to fulfill the Law of God, and that the poſterity of <hi>Adam</hi> are ſinners by imita<g ref="char:EOLhyphen"/>tion: and not by propagation; and that the holy Fathers rather con<g ref="char:EOLhyphen"/>feſſed their ſins of humility then of neceſſity: Were not the Cavalieres under <hi>Hasting,</hi> benummed with this dulneſſe and ſenſuality; they would not dare to commit ſuch horrible wickedneſſe: <hi>Aug. conſil.</hi>
+            </p>
+            <p n="31">XXXI. <hi>Abelarders</hi>) As their patron <hi>Abelardes,</hi> taught that the holy ſpirit was the ſoul of the World, and that he was not of the ſubſtance of the Father, ſo his Succeſſors at this day <hi>Smith the</hi> Marſhall and his Catch<g ref="char:EOLhyphen"/>poles do no leſſe deſpite the ſpirit of God, making a jeering, and an object of laughter, at every work and operation thereof, who not only making a mock of ſpirituall prayer and diſpenſation of Gods Word, have greatly deſpiſed the Spirit of Grace; but have beaten and miſuſed Godly Miniſters; bade them tell <hi>by the ſpirit, who it was that struck them:</hi> Sympſ c. p. 440.</p>
+            <p n="32">XXXII. <hi>Peterenins</hi>) Other waies called <hi>Gaſarius,</hi> affirme, with Can<g ref="char:EOLhyphen"/>terburie that married people are not in the eſtate of grace; and cannot be ſaved. Indeed our Metropolitan Prelats durſt never marry; and there are not many only common men, but great ones too amongſt the Commanders, who though they be as great Whoremaſters as <hi>Suckling</hi> ever was, yet hold it a damnable ſin to marry: <hi>Sympſ.</hi> c. p. 441.</p>
+            <p n="33">XXXIII. <hi>Patricellins</hi>) At <hi>Oxford</hi> under Sir <hi>Arthur Aſhton,</hi> Think they have no need of ſpirituall prayer, and faſting; hearing Gods Word, Reading and ſuch other works of piety, whereby increaſe of grace is obtained, and do therefore hate, deride, and ſcorn, all thoſe who endeavour to live godly: againſt whom for this very cauſe they are now in armes againſt them: <hi>Symp. c. p.</hi> 441.</p>
+            <p n="34">
+               <pb facs="tcp:154701:5"/> XXXIIII. Are <hi>Shipmoney Mongers,</hi> that hold it lawfull for Princes to pole the very <hi>Hides</hi> of their Subiects, and that Kings have a pro<g ref="char:EOLhyphen"/>prietie in the peoples Eſtates, to make uſe thereof at their pleaſures, and of this Sect are the Malignant <hi>Judges</hi> chief in the cauſe.</p>
+            <p n="35">XXXV. And the <hi>Iriſh Rebels,</hi> which hold it lawfull to cut the throate of, and murder all the Proteſtants in <hi>England Scotland and Ire<g ref="char:EOLhyphen"/>land,</hi> and that it is a meritorious worke ſo to do, and for that purpoſe roſe in Ireland, and did there begin under <hi>Oneal</hi> the chief of them, and have ſince for that purpoſe come into and remain in <hi>England.</hi>
+            </p>
+            <p n="36">XXXVI. The laſt are a ſort of ſhe Cavalliers about the City, that Drinke, Roare, and Sweare, as luſtily as any, in the Campe, and out<g ref="char:EOLhyphen"/>brave a malignant Report, or cauſe, againſt all truth, eſpecially when their tongues have been well whitled at the Tavarne or Alehouſe.</p>
+            <p>WHy then ſhould we (who lay claim to the true Proteſtant Religion) long to be at peace with ſuch as theſe; and ſucmit to what diſcipline they will give us; who minde Whoring, Sſwearing, Idolatry, Drunkeuneſſe, blaſphemie, and all manner of vice, and prefer it before any thing that is truly good.</p>
+            <epigraph>
+               <bibl>
+                  <hi>Tertul:</hi> lib. de ſpectac titl de theatro.</bibl>
+               <q xml:lang="lat">
+                  <hi>Libero et veneri convenit, Duo iſta Daemonia conſpirata et coniurata interſeſunt.</hi>
+               </q>
+               <q>
+                  <hi>Bacchus</hi> and <hi>Venus</hi> agree and goe together Theſe are two foul Fiends which conſpire and are cojured together: for the de<g ref="char:EOLhyphen"/>ſtruction of man kinde.</q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:154701:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
